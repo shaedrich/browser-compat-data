@@ -52,6 +52,42 @@
           "standard_track": true,
           "deprecated": false
         }
+      },
+      "item": {
+        "__compat": {
+          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLSelectElement/item",
+          "description": "<code>SharedWorker()</code> constructor",
+          "support": {
+            
+          }
+        }
+      },
+      "getItem": {
+        "__compat": {
+          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLSelectElement/item",
+          "description": "<code>SharedWorker()</code> constructor",
+          "support": {
+            
+          }
+        }
+      },
+      "selectedOptions": {
+        "__compat": {
+          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLSelectElement/item",
+          "description": "<code>SharedWorker()</code> constructor",
+          "support": {
+            
+          }
+        }
+      },
+      "labels": {
+        "__compat": {
+          "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLSelectElement/item",
+          "description": "<code>SharedWorker()</code> constructor",
+          "support": {
+            
+          }
+        }
       }
     }
   }
